@@ -1,1 +1,1 @@
-# CSCE 412 - Practice Exercises
+# CSCI 412 - Practice Exercises
