@@ -52,8 +52,6 @@ function makeCylinder( r1 : number, r2 : number, length: number, color: number )
 }
 
 function main() {
-    canvas = document.getElementById('main-canvas') as HTMLCanvasElement;
-
     scene = new THREE.Scene();
     canvas = document.getElementById('main-canvas') as HTMLCanvasElement;
     camera = new THREE.PerspectiveCamera( 48, canvas.width / canvas.height, 0.1, 1000 );
